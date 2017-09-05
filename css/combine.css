@@ -39,7 +39,11 @@ nav img {
     color: #ff346d;
     font-weight: 700;
     font-family: "Gotham", sans-serif;
-    font-size: 2rem;
+    font-size: 1.5rem;
+}
+
+.lead {
+    margin-top: 2rem;
 }
 
 .icon {
@@ -65,7 +69,7 @@ nav img {
 }
 
 .marketing .row {
-    margin-top: 5rem;    
+    margin-top: 2rem;    
 }
 .marketing .col-lg-3 {
   margin-bottom: 1.5rem;
@@ -89,7 +93,7 @@ nav img {
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  margin: 3rem 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
