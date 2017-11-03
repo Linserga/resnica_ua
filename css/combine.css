@@ -49,7 +49,11 @@ nav img {
 }
 
 .lead {
-    margin-top: 2rem;
+    margin-top: 2rem;      
+}
+
+.lead a {
+    color: white;
 }
 
 .icon {
@@ -58,9 +62,13 @@ nav img {
     position: fixed;
     bottom: 1rem;
     right: 1rem;
+    z-index: 2;
 }
 
 /* Custom default button */
+.btn-light{
+    background-color: #7D51A0;
+}
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
